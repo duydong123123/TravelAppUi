@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Khu Du Lịch Sinh Thái Lâm Viên Cần Giờ",
+    "description": "Nằm cách trung tâm thành phố Hồ Chí Minh 50km về hướng Đông Nam, khu du lịch sinh thái Lâm Viên Cần Giờ là một quần thể sinh thái bao gồm đa dạng các loài động - thực vật ở trên cạn và thủy sinh. Được mệnh danh là “ốc đảo xanh” của thành phố, nơi đây là một trong những khu du lịch nổi tiếng của Việt Nam và được UNESCO công nhận là khu dự trữ sinh quyển điển hình bậc nhất thế giới. Vẻ đẹp hoang sơ của khu du lịch này đón hàng triệu lượt khách tham quan mỗi năm, xứng đáng là điểm dừng chân lý tưởng cho team yêu thiên nhiên và sự bình yên.",
+    "buttonText": "Khám phá thêm",
+    "imageUrl": "https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_1000/v1675762964/blog/liu6lqwuwdgdescntru6.webp"
+  },
+  {
+    "id": "2",
+    "title": "Khu Du Lịch Sinh Thái Hầm Hô",
+    "description": "Một địa điểm mà #teamKlook không thể bỏ qua khi đến với Quy Nhơn chính là Khu Du Lịch Sinh Thái Hầm Hô. Bốn mùa nơi đây đều đắm chìm trong một màu xanh mát, kết hợp toàn vẹn của mây, nước, chim, trời tựa chốn bồng lai tiên cảnh. Thời điểm lý tưởng để đến với Hầm Hô là từ tháng 3 đến tháng 8, khí hậu mát mẻ ôn hòa thích hợp cho những hoạt động ngoài trời. Tới Hầm Hô, bạn sẽ được đi thuyền trên kênh Lộc Giang tới dòng sông Kut với Khúc Sông Trời lấp lánh được ví như “Vịnh Hạ Long” thu nhỏ, hòa mình với thiên nhiên hoang sơ, cây cỏ non nước. Ngoài ra, tham quan các di tích lịch sử và thăm chùa chiền của “thành phố thi ca” cũng là những hoạt động rất thú vị. ",
+    "buttonText": "Khám phá thêm",
+    "imageUrl": "https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_1000/v1675762981/blog/fdfrqspxnmtwa3pauzk2.webp"
+  },
+  {
+    "id": "3",
+    "title": "Khu Du Lịch Sinh Thái Tràng An",
+    "description": "Với cảnh sắc đẹp tuyệt trần,Khu Du Lịch Sinh Thái Tràng An Ninh Bình đích thực là bức tranh phong cảnh non nước hữu tình. Quả xứng đáng là điểm sáng của cố đô Hoa Lư bởi khu quần thể này đã được UNESCO công nhận trở thành di sản thiên nhiên của thế giới. Tới đây và thăm đền cổ của Đinh Bộ Lĩnh hay tham quan Hang Múa và đỉnh Ngọa Long, chiêm ngưỡng vẻ đẹp ngoạn mục, ghi lại những thước phim tuyệt đẹp mang vẻ cổ kính mộc mạc của nơi đây #teamKlook nha.",
+    "buttonText": "Khám phá thêm",
+    "imageUrl": "https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_1000/v1675763035/blog/b4wkfcibszzadkz6ienw.webp"
+  },
+  {
+    "id": "4",
+    "title": "Khu Du Lịch Sinh Thái Kotam",
+    "description": "Sở hữu một không gian rộng lớn tới 13ha, khu du lịch sinh thái Kotam được chia thành ba không gian chính là khu vườn chính, khu nhà tre và khu câu cá để du khách có thể trải nghiệm thật thuận tiện. Nơi đây được phủ vàng bởi sắc hoa dã quỳ rực rỡ, hứa hẹn sẽ mang đến cho bạn những bức ảnh triệu like. Thời điểm thích hợp để đến Kotam là tháng 9, thời tiết đẹp và mát mẻ, không quá oi ả. Nơi đây thường diễn ra các lễ hội đua thuyền, cúng voi, mang đậm bản sắc dân tộc địa phương, thu hút hàng nghìn lượt khách ghé thăm.  ",
+    "buttonText": "Khám phá thêm",
+    "imageUrl": "https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_1000/v1675763086/blog/ztd1vfehqksr2iab28hd.webp"
+  }
+]

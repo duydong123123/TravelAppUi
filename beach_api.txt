@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Bãi Sao - Phú Quốc, Kiên Giang",
+    "description": "Được mệnh danh là đảo ngọc tại Kiên Giang, Phú Quốc là điểm đến yêu thích nhất của cả khách du lịch trong nước lẫn nước ngoài. Phú Quốc có rất nhiều bãi biển và các hòn đảo đẹp như bãi Trường, bãi Dài, bãi Sao, bãi Khem, Gành Dầu, Vũng Bầu, Rạch Vẹm, Bà Kèo, Cửa Cạn hoặc Bà Kèo…",
+    "buttonText": "Khám phá thêm",
+    "imageUrl": "https://homepage.momocdn.net/blogscontents/momo-upload-api-200612160619-637275747791469387.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Biển Mũi Né - Bình Thuận",
+    "description": "Biển xanh - Cát trắng - Nắng vàng là những điều tuyệt vời, miêu tả chính xác về bãi biển Mũi Né và cũng chính điều này đã chinh phục được bất cứ ai khi đến đây và nhanh chóng trở thành một trong những bãi biển đẹp nhất Việt Nam được yêu thích nhất.",
+    "buttonText": "Khám phá thêm",
+    "imageUrl": "https://static.vinwonders.com/production/mui-ne-o-dau-1.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Biển Nha Trang - Khánh Hòa",
+    "description": "Nói về bãi biển đẹp tựa thiên đường ở Việt Nam không thể không nhắc tới biển Nha Trang, vùng biển nổi tiếng sở hữu hàng chục vịnh đẹp đúng chuẩn thiên đường tại trần gian. Ở đây hiện nay vẫn còn một số bãi biển và hòn đảo hoang sơ, được bảo tồn tốt. Đây là một nơi lý tưởng để trải nghiệm với nhiều bãi tắm đẹp, trong xanh, cát trắng trải dài tít tắp và vô số hòn đảo nằm rải rác đến tận chân trời.",
+    "buttonText": "Khám phá thêm",
+    "imageUrl": "https://homepage.momocdn.net/blogscontents/momo-upload-api-200612173346-637275800265713980.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Vịnh Hạ Long - Quảng Ninh",
+    "description": "Vịnh Hạ Long - Di sản thiên nhiên thế giới được công nhận bởi UNESCO. Mặc dù chủ yếu nổi tiếng thế giới với những mỏm đá vôi nhấp nhô trên biển, nhưng Hạ Long còn tự hào với hàng loạt những bãi biển riêng, nổi bật nhất là Bãi Cháy, bãi biển nhân tạo thu hút rất đông du khách. ",
+    "buttonText": "Khám phá thêm",
+    "imageUrl": "https://homepage.momocdn.net/blogscontents/momo-upload-api-200612174350-637275806307657798.jpg"
+  }
+]

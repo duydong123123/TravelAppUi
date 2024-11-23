@@ -10,6 +10,9 @@ import BeachScreen from '../screens/BeachScreen';
 import MountainScreen from '../screens/MountainScreen';
 import CampScreen from '../screens/CampScreen';
 import ForestScreen from '../screens/ForestScreen';
+import SunsetScreen from "../screens/SunsetScreen";
+import HikingScreen from "../screens/HikingScreen";
+import OceanScreen from "../screens/OceanScreen";
 
 const Stack = createNativeStackNavigator();
 
@@ -31,6 +34,9 @@ export default function AppNavigation() {
                 <Stack.Screen name="Mountain" component={MountainScreen} />
                 <Stack.Screen name="Camp" component={CampScreen} />
                 <Stack.Screen name="Forest" component={ForestScreen} />
+                <Stack.Screen name="Sunset" component={SunsetScreen} />
+                <Stack.Screen name="Hiking" component={HikingScreen} />
+                <Stack.Screen name="Ocean" component={OceanScreen} />
             </Stack.Navigator>
         </NavigationContainer>
     );

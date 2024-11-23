@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Núi Dinh, Vũng Tàu",
+    "description": "Nằm ở huyện Tân Thành, cách trung tâm thành phố Vũng Tàu khoảng 35km và xa khỏi sự ồn ào và đông đúc của Sài Gòn tầm 80 cây số, địa điểm này có một độ cao 500m. Quãng đường đến đây không quá xa, do đó nó luôn được những người đi phượt ưu ái vào mỗi cuối tuần hoặc trong các dịp lễ ngắn/ dài ngày. Đường lên đỉnh có trải nhựa đường, phù hợp cho người mới tìm hiểu về leo núi.",
+    "buttonText": "Khám phá thêm",
+    "imageUrl": "https://1phutsaigon.vn/wp-content/uploads/2022/12/suoi-da-vung-tau-1.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Núi Tà Cú, Bình Thuận",
+    "description": "Không chỉ có cảnh sắc thiên nhiên hùng vĩ, núi Tà Cú còn mang vẻ đẹp ngàn năm của quần thể 3 ngôi chùa lớn: Linh Sơn Trường Thọ, Chùa Tổ và Chùa Long Đoàn. Vì vậy, hàng năm vào các dịp lễ lớn, lượng du khách kéo về đây rất đông đảo.",
+    "buttonText": "Khám phá thêm",
+    "imageUrl": "https://bizweb.dktcdn.net/100/342/038/files/quan-the-chua-ta-cu-1024x683.jpg?v=1574325803218"
+  },
+  {
+    "id": "3",
+    "title": "Núi Langbiang, Đà Lạt",
+    "description": "Được biết đến là một trong những điểm leo núi phổ biến ở Đà Lạt, Núi Langbiang (Núi Bà) có đường dẫn lên đỉnh tương đối dễ đi. Tuy nhiên nếu bạn không leo đến đỉnh Núi Bà, bạn có thể dừng lại tại ngọn đồi Radar, độ cao 1929m.",
+    "buttonText": "Khám phá thêm",
+    "imageUrl": "https://api.vntix.com/storage/202105/4736-cuoi-tuan-trekking-langbiang-tam-thac-lanh-5-do-c-origin.jpeg"
+  },
+  {
+    "id": "4",
+    "title": "Núi Cấm, Ninh Bình",
+    "description": "Đây là một trong những địa điểm leo núi ở Việt Nam phổ biến, với đường lên đỉnh không quá khó khăn. Núi Cấm (hay còn gọi là núi Hàng Múa) là một địa danh đẹp tại Ninh Bình, Việt Nam. Núi Cấm được gọi là “Cấm” (tức là cấm cản) bởi vẻ đẹp hùng vĩ và khó khăn khi leo lên đỉnh núi.",
+    "buttonText": "Khám phá thêm",
+    "imageUrl": "https://www.decathlon.vn/blog/wp-content/uploads/2023/08/nui-cam-ninh-binh.jpg"
+  }
+]

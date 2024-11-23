@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Cắm trại Núi Bà Đen Tây Ninh",
+    "description": "Núi Bà Đen chắc hẳn không còn quá xa lạ đối với dân phượt, đặc biệt là giới trekking leo núi, bởi đây là địa điểm lý tưởng cho những chuyến hành trình khám phá. Tuy nhiên với những bạn đang tìm kiếm một địa chỉ cắm trại qua đêm gần Sài Gòn thì cũng không nên bỏ qua địa danh này.",
+    "buttonText": "Khám phá thêm",
+    "imageUrl": "https://chuyentactical.com/wp-content/uploads/2020/12/cam-trai-gan-sai-gon-1.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Núi Chứa Chan Đồng Nai",
+    "description": "Mặc dù không quá hiểm trở như núi Bà Đen nhưng núi Chứa Chan Đồng Nai cũng là điểm đến thú vị cho những ai đang muốn cắm trại gần Sài Gòn đấy. Sở hữu phong cảnh cực đẹp và lãng mạn, ngọn núi này được mọi người mệnh danh là Đà Lạt thu nhỏ giữa lòng Đồng Nai.",
+    "buttonText": "Khám phá thêm",
+    "imageUrl": "https://chuyentactical.com/wp-content/uploads/2020/12/dia-diem-cam-trai-qua-dem-o-tphcm-1.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Hồ Trị An Đồng Nai",
+    "description": "Nằm trong danh sách những địa điểm cắm trại qua đêm gần TPHCM hấp dẫn nhất được giới trẻ yêu thích, Hồ Trị An Đồng Nai chính là địa điểm mà bạn không nên bỏ qua.Đến cắm trại tại đây, bạn sẽ được trải nghiệm những khoảnh khắc cùng bạn bè hoặc các thành viên trong gia đình bơi lội, được chiêm ngưỡng khung cảnh hoàng hôn lãng mạn hay quay quần bên bếp lửa và thưởng thức những món ăn thơm ngon.",
+    "buttonText": "Khám phá thêm",
+    "imageUrl": "https://chuyentactical.com/wp-content/uploads/2020/12/tim-trai-qua-dem-o-tphcm-1.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Khu du lịch Cao Minh",
+    "description": "Nếu muốn trốn cái nắng oi ả của thành phố, lánh xa sự ồn ào, tấp nập và bộn bề của chốn đô thị thì đây sẽ là địa chỉ cắm trại gần Sài Gòn hoàn hảo cho bạn đấy. Giá vé cắm trại trong ngày và qua đêm tại đây khá rẻ, chỉ khoảng từ 30 – 70k. Bên cạnh đó bạn cũng cần lưu ý nếu mang đồ ăn từ bên ngoài vào khu cắm trại sẽ phải chịu phí thu phụ thêm là 20k.",
+    "buttonText": "Khám phá thêm",
+    "imageUrl": "https://chuyentactical.com/wp-content/uploads/2020/12/dia-diem-picnic-gan-sai-gon-1.jpg"
+  }
+]
