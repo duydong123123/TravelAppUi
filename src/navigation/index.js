@@ -27,7 +27,7 @@ export default function AppNavigation() {
                 }}
             >
                 <Stack.Screen name="Home" component={HomeScreen} />
-                {/* <Stack.Screen name="Welcome" component={WelcomeScreen} /> */}
+                <Stack.Screen name="Welcome" component={WelcomeScreen} />
                 <Stack.Screen name="Destination" component={DestinationScreen} />
                 <Stack.Screen name="Profile" component={ProfileScreen} />
                 <Stack.Screen name="Beach" component={BeachScreen} />
